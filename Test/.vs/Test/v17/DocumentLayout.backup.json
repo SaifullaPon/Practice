@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\mmk91\\Test\\",
+  "WorkspaceRootPath": "D:\\mmk91\\Practice\\Test\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|d:\\mmk91\\test\\application\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|solutionrelative:application\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7D72C2-C47F-42AB-ABCF-3BC338B7B19E}|TestProject\\TestProject.csproj|d:\\mmk91\\test\\testproject\\userregistrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B7D72C2-C47F-42AB-ABCF-3BC338B7B19E}|TestProject\\TestProject.csproj|solutionrelative:testproject\\userregistrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|d:\\mmk91\\test\\application\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|solutionrelative:application\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B7D72C2-C47F-42AB-ABCF-3BC338B7B19E}|TestProject\\TestProject.csproj|d:\\mmk91\\test\\testproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9B7D72C2-C47F-42AB-ABCF-3BC338B7B19E}|TestProject\\TestProject.csproj|d:\\mmk91\\practice\\test\\testproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B7D72C2-C47F-42AB-ABCF-3BC338B7B19E}|TestProject\\TestProject.csproj|solutionrelative:testproject\\unittest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|d:\\mmk91\\test\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|d:\\mmk91\\practice\\test\\application\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|solutionrelative:application\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B7D72C2-C47F-42AB-ABCF-3BC338B7B19E}|TestProject\\TestProject.csproj|d:\\mmk91\\practice\\test\\testproject\\userregistrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B7D72C2-C47F-42AB-ABCF-3BC338B7B19E}|TestProject\\TestProject.csproj|solutionrelative:testproject\\userregistrationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|d:\\mmk91\\practice\\test\\application\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|solutionrelative:application\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|d:\\mmk91\\practice\\test\\application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A9A75167-37AF-4276-B186-9A8C2544498E}|Application\\Application.csproj|solutionrelative:application\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,64 +30,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserRegistrationTests.cs",
-              "DocumentMoniker": "D:\\mmk91\\Test\\TestProject\\UserRegistrationTests.cs",
+              "DocumentMoniker": "D:\\mmk91\\Practice\\Test\\TestProject\\UserRegistrationTests.cs",
               "RelativeDocumentMoniker": "TestProject\\UserRegistrationTests.cs",
-              "ToolTip": "D:\\mmk91\\Test\\TestProject\\UserRegistrationTests.cs",
+              "ToolTip": "D:\\mmk91\\Practice\\Test\\TestProject\\UserRegistrationTests.cs",
               "RelativeToolTip": "TestProject\\UserRegistrationTests.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T10:09:21.945Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserRegistration.cs",
-              "DocumentMoniker": "D:\\mmk91\\Test\\Application\\UserRegistration.cs",
+              "DocumentMoniker": "D:\\mmk91\\Practice\\Test\\Application\\UserRegistration.cs",
               "RelativeDocumentMoniker": "Application\\UserRegistration.cs",
-              "ToolTip": "D:\\mmk91\\Test\\Application\\UserRegistration.cs",
+              "ToolTip": "D:\\mmk91\\Practice\\Test\\Application\\UserRegistration.cs",
               "RelativeToolTip": "Application\\UserRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB4AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T10:08:16.481Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Calculate.cs",
-              "DocumentMoniker": "D:\\mmk91\\Test\\Application\\Calculate.cs",
+              "DocumentMoniker": "D:\\mmk91\\Practice\\Test\\Application\\Calculate.cs",
               "RelativeDocumentMoniker": "Application\\Calculate.cs",
-              "ToolTip": "D:\\mmk91\\Test\\Application\\Calculate.cs",
+              "ToolTip": "D:\\mmk91\\Practice\\Test\\Application\\Calculate.cs",
               "RelativeToolTip": "Application\\Calculate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T09:58:33.852Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "UnitTest.cs",
-              "DocumentMoniker": "D:\\mmk91\\Test\\TestProject\\UnitTest.cs",
+              "DocumentMoniker": "D:\\mmk91\\Practice\\Test\\TestProject\\UnitTest.cs",
               "RelativeDocumentMoniker": "TestProject\\UnitTest.cs",
-              "ToolTip": "D:\\mmk91\\Test\\TestProject\\UnitTest.cs",
+              "ToolTip": "D:\\mmk91\\Practice\\Test\\TestProject\\UnitTest.cs",
               "RelativeToolTip": "TestProject\\UnitTest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T09:52:47.78Z",
               "EditorCaption": ""
@@ -96,11 +92,11 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\mmk91\\Test\\Application\\Program.cs",
+              "DocumentMoniker": "D:\\mmk91\\Practice\\Test\\Application\\Program.cs",
               "RelativeDocumentMoniker": "Application\\Program.cs",
-              "ToolTip": "D:\\mmk91\\Test\\Application\\Program.cs",
+              "ToolTip": "D:\\mmk91\\Practice\\Test\\Application\\Program.cs",
               "RelativeToolTip": "Application\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-02T09:52:12.333Z",
               "EditorCaption": ""
